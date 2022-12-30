@@ -1,0 +1,16 @@
+{
+  "name": "fwin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "clock.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.jetbrains.space/alvinfeiwin/fwin/fwin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
